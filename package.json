@@ -1,0 +1,19 @@
+{
+  "name": "socialmedia_backend",
+  "version": "1.0.0",
+  "description": "Assignment for ReUnion where I have to create a scocial media backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prathmesh410/social-media-backend-assignment-.git"
+  },
+  "author": "Prathmesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prathmesh410/social-media-backend-assignment-/issues"
+  },
+  "homepage": "https://github.com/Prathmesh410/social-media-backend-assignment-#readme"
+}
